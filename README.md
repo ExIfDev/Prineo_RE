@@ -12,23 +12,37 @@ Some interesting screenshots taken during the RE process.
 
 ---
 
-![Early Noesis addon import](https://github.com/user-attachments/assets/36790abf-1f46-4521-85fb-b0fd4280f1a0)
+![Early Noesis addon import](https://github.com/user-attachments/assets/97387f95-16ff-4e91-bc4e-3f8505d2c310)
 *Early version of the Noesis addon — first partial model import (14-09-2025)*
 
 ---
 
-![C# model reader](https://github.com/user-attachments/assets/f764ebda-b4bc-4e2a-ac4c-c6aecb2ef540)
+![C# model reader](https://github.com/user-attachments/assets/05e7d2fc-6e6f-4455-9bde-67ddb0f1b745)
 *C# model reader used to test deserialization implementations (06-12-2025)*
 
 ---
 
-![Hooking hashing function](https://github.com/user-attachments/assets/191ff9d1-b48a-42c2-9fb2-3bd727042521)
+![Hooking hashing function](https://github.com/user-attachments/assets/06e6b211-1698-4bb2-8696-92bc9ab5e04b)
 *Running a decrypted dump in a VM and hooking the hashing function via DLL injection using MinHook and Xenos, using the ReturnAddress intrinsic to track hash function calls (08-12-2025)*
 
 ---
 
-![Imported scene](https://github.com/user-attachments/assets/3dd5f690-bb5f-4906-a120-d18a222b21cc)
+![Imported scene](https://github.com/user-attachments/assets/cbf72ea7-51ae-4394-85bd-c735f6438805)
 *Imported scene from the game via the Noesis addon (27-12-2025)*
+
+---
+![Imported model](https://github.com/user-attachments/assets/e2852183-75d1-48a2-823d-87747a3e5183)
+*Imported skinned model from encrypted resource via Noesis addon*
+
+---
+![Ported model](https://github.com/user-attachments/assets/ad098840-008e-44f0-a8cf-2fd2e868e7e6)
+![Ported model2](https://github.com/user-attachments/assets/22601241-40c6-4f7f-a080-2cf924ab48fa)
+
+*Ported dress from PriPara arcade to NintendoSwitch version, model exported using Noesis plugin*
+
+---
+
+
 
 
 
