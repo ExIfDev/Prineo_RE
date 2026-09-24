@@ -4,7 +4,7 @@ PriPara (internal name Prineo) is an arcade rythm game developed by SynSophia.
 
 ## Goal
 
-The goal of this project was to reverse the model format of the arcade series in order to port exclusive characters to the newer version of game on Nintendo Switch.
+The goal of this project was to reverse the model format of the arcade series in order to port exclusive characters to the newer version of the game on Nintendo Switch.
 
 ## Screenshots
 
